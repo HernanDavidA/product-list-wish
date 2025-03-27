@@ -11,7 +11,7 @@ function App() {
     <>
       <section className=" flex justify-around content-center">
        
-        <section className=''>
+        <section className='m-10'>
         <h1> Desserts</h1>
         <Desserts  />
         </section>

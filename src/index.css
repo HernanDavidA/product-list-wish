@@ -1,3 +1,35 @@
 @import "tailwindcss";
 
+@font-face{
+  font-family: 'RedHatText-SemiBold';
+  src: url('./fonts/RedHatText-SemiBold.ttf') format('truetype');
 
+}
+@font-face {
+  font-family: 'RedHatText-Regular';
+  src: url('./fonts/RedHatText-Regular.ttf') format('truetype');
+}
+@font-face{
+  font-family: 'RedHatText-Bold';
+  src: url('./fonts/RedHatText-Bold.ttf') format('truetype');
+}
+
+.card-text{
+  font-family: 'RedHatText-Bold';
+  color: hsl(14, 65%, 9%);
+}
+
+h1 { 
+  font-family: 'RedHatText-Bold';
+  font-size: 28px;
+  color: hsl(14, 65%, 9%)
+}
+
+.card-title{
+  font-family: 'RedHatText-Regular';
+}
+
+.card-body p:nth-of-type(2) {
+  color: hsl(14, 86%, 42%);
+  font-weight: bold;
+}

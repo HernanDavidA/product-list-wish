@@ -2,15 +2,14 @@
 
 .card{
   position: relative;
+  padding: 0px 10px 30px 10px;
 
 }
 
 .card .addToCar{
   position: absolute;
-  left: 65px;
-  bottom: 50px;
-  margin-bottom: 0px;
-  /* cursor: pointer; */
+  left: 70px;
+  bottom: 100px;
 }
 
 .addToCar img{
