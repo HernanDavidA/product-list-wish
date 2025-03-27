@@ -11,7 +11,7 @@ const index = (props: Props) => {
     <div
         className="card"
     >
-        <img className="card-img-top rounded" src={images.baklava} alt="Title" />
+        <img className="card-img-top rounded-2xl h-64" src={images.baklava} alt="Title" />
         <Button />
         <div className="card-body ">
             <h4 className="card-title">Baklava</h4>

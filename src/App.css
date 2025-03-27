@@ -1,9 +1,4 @@
 
-img{
-  width: 200px;
-  height: 200px;
-}
-
 
 .card{
   position: relative;
@@ -12,13 +7,20 @@ img{
 
 .card .addToCar{
   position: absolute;
-  left: 30px;
+  left: 65px;
   bottom: 50px;
   margin-bottom: 0px;
+  /* cursor: pointer; */
 }
 
 .addToCar img{
 
   width: 20px;
   height: 20px;
+}
+
+
+.addToCar:hover{
+  border: 1px solid hsl(14, 86%, 42%);
+  color: hsl(14, 86%, 42%);
 }
