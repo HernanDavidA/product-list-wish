@@ -1,0 +1,12 @@
+{
+    "baklava" : "src/assets/images/image-baklava-desktop.jpg",
+    "brownie" : "src/assets/images/image-brownie-desktop.jpg",
+    "cake" : "src/assets/images/image-cake-desktop.jpg",
+    "creme" : "src/assets/images/image-creme-brulee-desktop.jpg",
+    "macaron" : "src/assets/images/image-macaron-desktop.jpg",
+    "meringue" : "src/assets/images/image-meringue-desktop.jpg",
+    "panna": "src/assets/images/image-panna-cotta-desktop.jpg",
+    "tiramisu" : "src/assets/images/image-tiramisu-desktop.jpg",
+    "waffle" : "src/assets/images/image-waffle-desktop.jpg",
+    "cart" : "src/assets/images/icon-add-to-cart.svg"
+}
